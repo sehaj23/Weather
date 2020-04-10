@@ -1,4 +1,4 @@
-# WEATHER
+# Weather
 Weather-App 
 Usage Instruction: Provide two arguments, i.e. city name & country code, while executing the app.
 
